@@ -1,0 +1,41 @@
+Variables
+
+La computadora tiene memorias, que son lugares/espacio para guardar valores/datos de tipo numerico o texto o logicos. Su estructura/organizacion
+se puede comparar como un casilleros o gabeteros para almacenar cosas (como los que hay en clubes, gimancios, escuelas) cada espacio esta nominado por algun 
+nombre o numero de manera de ser identificado al momento de recuperar las pertenencias del dueño que lo utilizo, de la misma manera en la memoria se nominan con nombres
+con nombres de variables (ya que el contenido puede variar en el tiempo) y en este caso se pueden almancenar valores de datos y de los cuales posteriormente
+seran recuperados para ser sometidos a diferentes operaciones. Los programas que contruimos, se basan en almacenar/ingresar datos a memoria y 
+recuperar/extraer datos de la memoria de manera de ser sometidos a OPERACIONES de tipo aritmeticas, comparativas o logicas. 
+
+
+Strings
+
+Un strings es una cadena u o serie de letras y/o numeros que definen como una unidad alfanumerica. Es decir "yo soy Fabian y tengo 46 años!" es un string 
+En javascript un string es una instancia de un objeto del mismo nombre el cual tiene propia definicion tiene propiedades y metodos.
+
+
+
+Funciones (argumentos, return)
+
+Una funcion es un parte de un programa, un conjunto de líneas de código que hacen una tarea en concreto, que es nominada con un nombre de manera
+ de ser invocada posteriormente de forma indivudualizada N veces.  
+Cada vez que es invocada x su nombre, se ejecuta el conjunto de instrucciones que detallan el comportamiento/operaciones que debe realizar'. 
+Una funcion acepta que se le ingresen/pasen valores para ser tomados en la cada invocación,  los cuales se denominan argumentos, la funcion tiene una 
+lista de instrucciones que debe ejecutar para operar datos y posteriormente devolvera como salida un valor como resultado de la operacion. 
+
+
+
+Declaraciones if
+
+Es una sentencia de tipo condicional, que se utiliza para compraciones, en donde cada comparacion tiene dos posibles valores (true o false) y a partir
+de estos dos posibles resultados se producen bifuracaciones en la secuencia de codigo o sentencia o comandos a ejecutar, el cual tomara
+uno u otro camino dependiendo una condicion logica de un valor true o false.
+
+Valores booleanos (true, false)
+
+Una variable de tipo boleana, acepta dos posibles valores (true o false) correspondiente con el codigo binario.
+En consecuencia este tipo de variable se utilizan para representar informacion que implique la afirmacion o negacion de un predicado de un objeto: esmasculino, estaapagado, cumple / no cumple, verdadero / falso, existe / no existe.
+
+NUEVOS CAMBIOS!!!!
+
+
